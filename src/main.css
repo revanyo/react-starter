@@ -1,0 +1,48 @@
+#app{
+    margin-top: 25px;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    border-left: 1px solid;
+    border-right: 1px solid
+    
+}
+.movieList{
+    align-content: center;
+}
+h1 {
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
+ul {
+    display: table;
+    margin: 0 auto;
+    align-content: center;
+    margin-top: 25px;
+  }
+li {
+    list-style-type: none;
+    margin-top: 2.5px;
+    border-top:1px solid;
+    border-spacing:30px;
+    display:block;
+    text-align:left;
+    margin-bottom:3px;
+    
+    height:40px;
+}
+
+.searchBar{
+    float: right;
+    padding-right: 5px;
+}
+
+.addMovie{
+    padding-bottom: 15px;
+   
+}
+
+button{
+   font-size: 15;
+}
